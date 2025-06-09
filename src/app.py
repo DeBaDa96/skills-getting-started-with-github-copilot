@@ -77,6 +77,13 @@ activities = {
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
         "participants": ["jack@mergington.edu", "harper@mergington.edu"]
+    },
+    # Add Ghost Club with 0 participants
+    "Ghost Club": {
+        "description": "A mysterious club... but nobody is here (yet).",
+        "schedule": "Saturdays, 12:00 AM - 1:00 AM",
+        "max_participants": 10,
+        "participants": []
     }
 }
 
